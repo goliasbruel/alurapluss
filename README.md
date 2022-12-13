@@ -1,2 +1,0 @@
-# alurapluss
-meu primeiro projeto 
